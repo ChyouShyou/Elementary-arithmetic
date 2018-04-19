@@ -64,6 +64,10 @@ footer, header, hgroup, menu, nav, section {
 /* =Structure
 ----------------------------------------------- */
 
+#kakoi{
+	border-top: 10px;
+}
+
 #page {
 	margin: 0em auto;
 	width: 100%;
